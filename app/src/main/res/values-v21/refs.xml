@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_radio" type="drawable">@drawable/btn_radio_material_anim</item>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WelcomePages</string>
+    <string name="welcome_page_1">Our app is really good</string>
+    <string name="welcome_page_2">This is one of the reasons why</string>
+    <string name="welcome_page_3">Oh, this is also a good reason</string>
+
+
+</resources>
